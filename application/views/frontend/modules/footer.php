@@ -16,15 +16,15 @@
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-map' ></i>
-                                    <span>68 Nguyễn Ái Quốc Thị Xã Hồng Lĩnh</span>
+                                    <span>CN3: 68 Nguyễn Ái Quốc Thị Xã Hồng Lĩnh</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-phone' ></i>
-                                    <span> Tổng đài hỗ trợ: 0949 046 345 (8:30 - 17:30)</span>
+                                    <span>Tổng đài hỗ trợ: 0949 046 345 (8:30 - 17:30)</span>
                                 </li>
                                 <li class="clearfix">
                                 <i class='bx bx-mail-send' ></i>
-                                    <span><a href="mailto:truong.vd2000@gmail.com"> tronglinh6a@gmail.com</a></span>
+                                    <span><a href="mailto:truong.vd2000@gmail.com">tronglinh6a@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>

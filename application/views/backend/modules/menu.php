@@ -37,7 +37,7 @@
               <!-- Navigation -->
               <ul class="navbar-nav mb-lg-7" id="itemid">
                   <li class="nav-item mt-5">
-                      <span class="h6 text-secondary ps-4 ps-lg-6 mb-3 d-block text-uppercase">hỆ THỐNG QUẢN TRỊ</span>
+                      <span class="h6 text-secondary ps-4 ps-lg-6 mb-3 d-block text-uppercase">HỆ THỐNG QUẢN TRỊ</span>
                   </li>
                   <li class="nav-item ">
                       <a class="nav-link active" href="<?php echo base_url() ?>admin">

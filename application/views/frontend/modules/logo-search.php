@@ -4,7 +4,7 @@
 			<div class="row align-items-center">
 				<div class="col-xl-3 col-lg-3 col-md-4 col-5">
 					<div class="logo-area  d-mt-30">
-						<a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/logo.webp" alt="Logo"></a>
+						<a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/mispeed.jpg" alt="Logo"></a>
 					</div>
 				</div>
 				<div class="col-xl-5 col-lg-5">
