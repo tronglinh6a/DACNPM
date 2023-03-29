@@ -67,7 +67,7 @@
 				</div>
 
 				<div class="col-5 col-md-6 d-block d-lg-none">
-					<div class="logo"><a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/logo.webp" alt="Logo"></a></div>
+					<div class="logo"><a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/logodep.png" alt="Logo"></a></div>
 				</div>
 
 				<div class="col-lg-3 col-md-6 col-7">

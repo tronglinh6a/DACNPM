@@ -15,7 +15,7 @@ class Trangchu extends CI_Controller {
     
 	public function index()
 	{
-        $this->data['title']='Hàng Chính Hiệu - Điện thoại, Laptop, Link kiện chính hãng';
+        $this->data['title']='Mispeed Shop';
         $this->data['view']='index';
 		$this->load->view('frontend/layout',$this->data);
 	}

@@ -14,7 +14,7 @@
         if (isset($title))
             echo $title;
         else
-            echo "Origine - Siêu thị tiện lợi";
+            echo "MiSpeed Shop";
         ?>
     </title>
     <!-- <link href="public/css/owl.carousel.min.css" rel="stylesheet">

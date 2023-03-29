@@ -54,7 +54,7 @@
     </div>
     <!-- Hero Section End -->
     <!-- Banner Area Start -->
-    <div class="banner-area">
+    <!-- <div class="banner-area">
         <div class="container">
             <div class="row">
                 <div class="col-6 col-md-3">
@@ -79,7 +79,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Banner Area End -->
     <!-- Product Area Start -->
     <div class="product-area section-pt-30 mt-30 pb-5">
