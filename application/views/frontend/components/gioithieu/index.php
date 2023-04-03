@@ -20,38 +20,20 @@
          <div class="blog-wrapper">
              <div class="row">
                  <div class="col-lg-12">
-                     <h4 class="title-blog">Giới thiệu HangChinhHieu</h4>
+                     <h4 class="title-blog">Giới thiệu MiSpeed</h4>
                  </div>
                  <div class="col-lg-12">
                      <p>
-                         - Hơn 10 năm là đối tác vàng của các hãng máy tính Acer, Asus, Dell, HP, …, cam kết sản phẩm chính hãng, đầy đủ CO/CQ, giá cạnh tranh và dịch vụ ưu việt. Các hãng luôn có chính sách bảo hành tận nơi hoặc giao nhận tận nơi trên toàn quốc.
-                         - Trung tâm bảo hành ủy quyền của hãng máy tính Asus, thể hiện sự cam kết chính hãng, uy tín và trình độ chuyên môn cao.
-                         - Hệ thống đại lý, showroom trưng bày và trạm dịch vụ toàn quốc.
-                         - Khả năng cung cấp số lượng máy lớn với cấu hình chuyên biệt.
-                     </p>
-                     <p>
-                         - Hơn 10 năm là đối tác vàng của các hãng máy tính Acer, Asus, Dell, HP, …, cam kết sản phẩm chính hãng, đầy đủ CO/CQ, giá cạnh tranh và dịch vụ ưu việt. Các hãng luôn có chính sách bảo hành tận nơi hoặc giao nhận tận nơi trên toàn quốc.
-                         - Trung tâm bảo hành ủy quyền của hãng máy tính Asus, thể hiện sự cam kết chính hãng, uy tín và trình độ chuyên môn cao.
-                         - Hệ thống đại lý, showroom trưng bày và trạm dịch vụ toàn quốc.
-                         - Khả năng cung cấp số lượng máy lớn với cấu hình chuyên biệt.
-                     </p>
-                     <p>
-                         - Hơn 10 năm là đối tác vàng của các hãng máy tính Acer, Asus, Dell, HP, …, cam kết sản phẩm chính hãng, đầy đủ CO/CQ, giá cạnh tranh và dịch vụ ưu việt. Các hãng luôn có chính sách bảo hành tận nơi hoặc giao nhận tận nơi trên toàn quốc.
-                         - Trung tâm bảo hành ủy quyền của hãng máy tính Asus, thể hiện sự cam kết chính hãng, uy tín và trình độ chuyên môn cao.
-                         - Hệ thống đại lý, showroom trưng bày và trạm dịch vụ toàn quốc.
-                         - Khả năng cung cấp số lượng máy lớn với cấu hình chuyên biệt.
-                     </p>
-                     <p>
-                         - Hơn 10 năm là đối tác vàng của các hãng máy tính Acer, Asus, Dell, HP, …, cam kết sản phẩm chính hãng, đầy đủ CO/CQ, giá cạnh tranh và dịch vụ ưu việt. Các hãng luôn có chính sách bảo hành tận nơi hoặc giao nhận tận nơi trên toàn quốc.
-                         - Trung tâm bảo hành ủy quyền của hãng máy tính Asus, thể hiện sự cam kết chính hãng, uy tín và trình độ chuyên môn cao.
-                         - Hệ thống đại lý, showroom trưng bày và trạm dịch vụ toàn quốc.
-                         - Khả năng cung cấp số lượng máy lớn với cấu hình chuyên biệt.
-                     </p>
-                     <p>
-                         - Hơn 10 năm là đối tác vàng của các hãng máy tính Acer, Asus, Dell, HP, …, cam kết sản phẩm chính hãng, đầy đủ CO/CQ, giá cạnh tranh và dịch vụ ưu việt. Các hãng luôn có chính sách bảo hành tận nơi hoặc giao nhận tận nơi trên toàn quốc.
-                         - Trung tâm bảo hành ủy quyền của hãng máy tính Asus, thể hiện sự cam kết chính hãng, uy tín và trình độ chuyên môn cao.
-                         - Hệ thống đại lý, showroom trưng bày và trạm dịch vụ toàn quốc.
-                         - Khả năng cung cấp số lượng máy lớn với cấu hình chuyên biệt.
+                        <center>
+                        <h3> Công Ty TNHH Xiaomi Speed Việt Nam</h3> <br>
+
+Đại Lý Ủy Quyền Xiaomi Tại Việt Nam – Phân Phối Và Cung Cấp Các Sản Phẩm Xiaomi Tại Việt Nam <br>
+
+Địa chỉ: 68 Trần Phú, Thành Phố Vinh, Nghệ An <br>
+Hotline: 0949046345 <br>
+Email: mispeedvn@gmail.com <br>
+                        </center>
+                                                
                      </p>
                  </div>
              </div>

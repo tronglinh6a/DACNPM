@@ -67,7 +67,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="copy-left-text">
-                                <p>Copyright &copy; <a href="#">Võ Trường</a> 2022. All Right Reserved.</p>
+                                <p>Copyright &copy; <a href="#">MiSpeed</a> 2023. All Right Reserved.</p>
                             </div>
                         </div>
                     </div>

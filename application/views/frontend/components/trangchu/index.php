@@ -142,7 +142,7 @@
     <!-- Product Area Start -->
 
     <!-- Banner Area Start -->
-    <div class="banner-area">
+    <!-- <div class="banner-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
@@ -157,7 +157,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Banner Area End -->
 
     <!-- Product Area Start -->
