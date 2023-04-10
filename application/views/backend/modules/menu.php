@@ -20,11 +20,11 @@
       <div class="container-fluid">
           <!-- Brand -->
           <a class="navbar-brand" href="index.html">
-              <img src="<?php echo base_url() ?>public/images/logo.webp" class="navbar-brand-img logo-light logo-small" alt="..." width="100%" height="40">
-              <img src="<?php echo base_url() ?>public/images/logo.webp" class="navbar-brand-img logo-light logo-large" alt="..." width="100%" height="40">
+              <img src="<?php echo base_url() ?>public/images/mispeed.webp" class="navbar-brand-img logo-light logo-small" alt="..." width="100%" height="60">
+              <img src="<?php echo base_url() ?>public/images/mispeed.webp" class="navbar-brand-img logo-light logo-large" alt="..." width="100%" height="60">
 
-              <img src="<?php echo base_url() ?>public/images/logo.webp" class="navbar-brand-img logo-dark logo-small" alt="..." width="100%" height="40">
-              <img src="<?php echo base_url() ?>public/images/logo.webp" class="navbar-brand-img logo-dark logo-large" alt="..." width="100%" height="40">
+              <img src="<?php echo base_url() ?>public/images/mispeed.webp" class="navbar-brand-img logo-dark logo-small" alt="..." width="100%" height="60">
+              <img src="<?php echo base_url() ?>public/images/mispeed.webp" class="navbar-brand-img logo-dark logo-large" alt="..." width="100%" height="60">
           </a>
           <!-- Navbar toggler -->
           <a href="javascript: void(0);" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#sidenavCollapse" aria-controls="sidenavCollapse" aria-expanded="false" aria-label="Toggle navigation">
